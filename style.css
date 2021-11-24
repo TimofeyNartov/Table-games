@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color:#212121;
+}
+header img{
+    height:30px;
+    margin:10px 0;
+    filter:invert(100%);
+}
